@@ -61,6 +61,7 @@
 | lilygo_ttgo_t8_s2_st7789 | LILYGO TTGO_T8_S2_Display | 0x303A:0x8008 | http://www.lilygo.cn/prod_view.aspx?TypeId=50033&Id=1321&FId=t3:50033:3 |
 | lilygo_ttgo_t8_s2_wroom | LILYGO TTGO_T8_S2_WROOM | 0x303A:0x80EB | http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1320&FId=t3:50063:3 |
 | lilygo_ttgo_t_twr_plus | LilyGO T-TWR Plus | 0x303A:0x8191 | https://www.lilygo.cc/products/t-twr-plus |
+| lilygo_ttgo_tbeam_1w | LilyGO T-Beam 1W | 0x303A:0x8368 | https://lilygo.cc/en-us/products/t-beam-1w |
 | lilygo_ttgo_tbeam_s3 | LilyGO T-Beam Supreme | 0x303A:0x8134 | https://www.lilygo.cc/products/softrf-t-beamsupreme |
 | lilygo_twatch_s3 | LILYGO T-Watch-S3 | 0x303A:0x821D | https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/tree/t-watch-s3 |
 | lolin_s2_mini | Lolin S2 Mini | 0x303A:0x80C4 | https://circuitpython.org/board/lolin_s2_mini/ |
